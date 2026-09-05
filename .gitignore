@@ -1,0 +1,4 @@
+# Local / stray files (not part of the library)
+*.bak
+*.bak.*
+*.pptx
